@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit secrets (local only)
+.streamlit/secrets.toml
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+
+# Pytest & IDE
+.pytest_cache/
+.vscode/
+.idea/
